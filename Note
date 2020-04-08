@@ -1,6 +1,6 @@
 คำส่ั่ง install redux
-npm i redex react-redux redux-logger redux-thunk
-- redex libery กลาง angular react vue ใช้ได้
-- react-redux หุ่ม redex
+npm i redux react-redux redux-logger redux-thunk
+- redux libery กลาง angular react vue ใช้ได้
+- react-redux หุ่ม redux
 - redux-logger เป็น midderwar ตัวกลาง
 - redux-thunk อัพเดต state
